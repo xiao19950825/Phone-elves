@@ -103,7 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 <<<<<<< HEAD
-.idea
-=======
-.idea
->>>>>>> origin/master
+.idea -f
+
+
